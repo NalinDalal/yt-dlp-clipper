@@ -1,5 +1,5 @@
 import yt_dlp
-from moviepy.editor import VideoFileClip
+from moviepy import VideoFileClip
 import os
 from pathlib import Path
 import tkinter as tk
