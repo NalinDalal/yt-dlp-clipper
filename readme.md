@@ -12,7 +12,7 @@ install the dependencies:
 pip3 install moviepy yt_dlp
 ```
 
-![img](./a.jpg)
+![img](./a.png)
 
 to run a gui:
 
