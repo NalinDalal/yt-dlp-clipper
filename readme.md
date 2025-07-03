@@ -3,13 +3,14 @@
 so basically first setup the venv by:
 
 ```sh
+python3 -m venv myvenv
 source myenv/bin/activate
 ```
 
 install the dependencies:
 
 ```sh
-pip3 install moviepy yt_dlp
+pip install moviepy yt_dlp
 ```
 
 to run a gui:
